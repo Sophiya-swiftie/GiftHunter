@@ -1,0 +1,6 @@
+{
+  "name": "GiftHunter - Hyper-Personalized AI Gift Curation",
+  "description": "Strategic, thoughtful AI gift curation finding creative intersections between unique hobbies, subcultures, and quirks with actionable search strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
